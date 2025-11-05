@@ -33,7 +33,7 @@ Astuce : le producteur écrit → consommateur lit.
 
 ---
 
-# **Exercice 3 — Multiplexage avec `select` (20 min)**
+# **Exercice 3 — Multiplexage avec `select`**
 
 Vous allez maintenant créer **2 types de workers** écrivant dans **2 channels différents**, et multiplexer leur lecture.
 
