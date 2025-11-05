@@ -1,6 +1,6 @@
 # **TP Go : Concurrence & Communication**
 
-# **Exercice 1 — Lancer des goroutines (10 min)**
+# **Exercice 1 — Lancer des goroutines**
 
 Créez un programme qui lance **3 goroutines** affichant chacune un message toutes les 200ms pendant 1 seconde.
 
